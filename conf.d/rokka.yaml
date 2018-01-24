@@ -1,0 +1,7 @@
+init_config:
+  min_collection_interval: 300
+  rokka_api_key: "YOURKEY"
+
+instances:
+  - organisation: "YOURORGANISATION1"
+  - organisation: "YOURORGANISATION2"
